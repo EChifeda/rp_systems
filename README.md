@@ -3,56 +3,9 @@
 Role-Play системы, созданные для того чтобы... Существовать?
 
 
+работает на: Sandbox
 
 
+В будущем будет работать на: Helix, Clockwork -- возможно, NutScript -- возможно, DarkRP
 
-
-
-
-
-
-работает на: 
-
-Sandbox
-
-
-
-
-
-
-
-
-
-Будет работать на: 
-
-
-Helix
-
-Clockwork -- возможно
-
-NutScript -- возможно
-
-DarkRP
-
-
-
-
-
-
-
-
-
-
-
-Не поддерживает:
-
-
-impulse
-
-TTT
-
-Homicide
-
-Murder
-
-Prop Hunt
+Не поддерживает: impulse, TTT, Homicide, Murder, Prop Hunt
