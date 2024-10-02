@@ -1,4 +1,3 @@
-include("cfg/jobs.lua")
 TSACONF = TSACONF or {}
 
 TSACONF:AddJob("Гражданский", {
